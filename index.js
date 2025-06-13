@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
 
-const creator = "@DarkYasiya";
+const creator = "@gojomd";
 const app = express();
 
 // Scraper class import
